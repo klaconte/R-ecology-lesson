@@ -49,7 +49,7 @@ pie(
 pie(
   c(Sky = 78, "Sunny side of pyramid" = 17, "Shady side of pyramid" = 5), 
   init.angle = 315, 
-  col = c("deepskyblue", "palegreen", "limegreen"), 
+  col = c("peachpuff", "slateblue1", "steelblue1"), 
   border = FALSE
 )
 ```
